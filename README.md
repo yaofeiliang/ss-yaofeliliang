@@ -18,7 +18,7 @@ cd  ss-yaofeiliang
 
 ./ss-yaofeiliang.sh -i password 1024
 ```
-
+``` bash
 [成功] 安装成功尽情冲浪！
 你的服务器地址（IP）：
 你的密码            ： password
@@ -26,4 +26,4 @@ cd  ss-yaofeiliang
 你的加密方式        ： aes-256-cfb
 欢迎访问YBlog   ： https://www.yaofeiliang.com
 你的ss链接：
-
+```
