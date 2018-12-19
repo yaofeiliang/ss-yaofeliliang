@@ -1,0 +1,17 @@
+声明：
+    一键脚本搭建ss/ssr服务+开启bbr加速
+用法：
+    显示版本：
+        ss-yaofeiliang.sh -v|v|version
+    显示帮助：
+        ss-yaofeiliang.sh [-h|h|help]
+    一键安装ss:
+        ss-yaofeiliang.sh -i|i|install
+    一键卸载ss：
+	ss-yaofeiliang.sh -uninstall
+    一键安装ssr:
+	ss-yaofeiliang.sh -ssr
+    显示ss链接:
+        ss-yaofeiliang.sh -sslink
+    安装BBR加速：
+        ss-yaofeiliang.sh -bbr
